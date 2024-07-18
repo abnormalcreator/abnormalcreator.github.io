@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Discussion: The Richest Man In Babylon"
+title: "The Richest Man In Babylon"
 date: 2023-05-29
 ---
 
